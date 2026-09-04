@@ -205,4 +205,4 @@ $("again").addEventListener("click", startCamera);
 $("save").addEventListener("click", savePhoto);
 $("share").addEventListener("click", sharePhoto);
 window.addEventListener("pagehide", stopCamera);
-show(welcome);Unsupported Media Type
+show(welcome);
